@@ -1,0 +1,12 @@
+{
+    "name": "zsd/china-mobile-locale",
+    "description": "国内的手机号归属地信息",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Zsd",
+            "email": "zhaoshoudong@qianshengqian.com"
+        }
+    ],
+    "require": {}
+}
